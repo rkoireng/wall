@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/sub-directory"
 url: "https://rkoireng.github.io/wall/"
 
 # THEME-SPECIFIC CONFIGURATION
